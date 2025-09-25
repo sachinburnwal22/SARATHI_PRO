@@ -4,7 +4,7 @@ import { Fredoka as Fredoka_One, Poppins } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { Suspense } from "react";
 import Navigation from "@/components/navigation";
-import TawkWidget from "@/components/tawk-widget";
+import TawkWidget from "@/components/website-widgets";
 import "./globals.css";
 
 const fredokaOne = Fredoka_One({
